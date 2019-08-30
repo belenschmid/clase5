@@ -10,3 +10,4 @@
 - Tipografías (Google Fonts)
 	• Montserrat - Títulos
 	• Lato - Párrafos y demás
+	.esta linea la anadi para encontrar el camnbio
